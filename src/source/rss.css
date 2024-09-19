@@ -1,0 +1,49 @@
+.RSS a{
+    border: none;
+    font-family: arial, sans-serif;
+    color: #069;
+    cursor: pointer;
+    position: relative;
+    padding: 2px 5px 2px 0px;
+    text-decoration: none;
+    position: relative;
+}
+.rss a{
+    border: none;
+    font-family: arial, sans-serif;
+    color: black;
+    cursor: pointer;
+    position: relative;
+
+    text-decoration: none;
+    position: relative;
+}
+.rss{
+    padding: 5px 5px 5px 3px;
+}
+
+.bottonerss{
+    background: none!important;
+    border: none;
+    font-family: arial, sans-serif;
+    color: #069;
+    cursor: pointer;
+    position: relative;
+    padding: 2px 5px 3px 10px;
+    text-decoration: none;
+    text-align: left;
+}
+.rett{
+    display: inline-block;
+    margin-right: 7px;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background-color: #ffa500;
+}
+.spin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}

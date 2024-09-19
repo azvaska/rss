@@ -1,0 +1,35 @@
+.Rettcont{
+	position: absolute;
+	z-index: 100;
+	right: 10px;
+	top: 60px;
+	width: 25%;
+	display: flex;
+	height: 80%;
+	overflow-x: scroll;
+	background-color: white;
+	border-style: solid; 
+	border-width: thin;
+}
+.rettangolo{
+	flex: 1;
+	overflow: auto;
+	display: flex;
+	flex-direction:   column; 
+	height: 100%; 
+}
+
+.RSS{
+    position: relative;
+	Color: black;
+    padding: 2px 5px 2px 10px;
+    text-decoration: none;
+}
+#h1s{
+	border-style: solid;
+    border-width: thin;
+	text-align: center;
+	font-size: 30px;
+	text-decoration: none;
+	color: black;
+}
