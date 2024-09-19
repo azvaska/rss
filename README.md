@@ -21,10 +21,9 @@ The application is deployed and accessible at: [RSS News](https://rss.ilbug.com/
 - **Database**: PostgreSQL
 - **Geospatial Data**: PostGIS
 
-## Installation
+## Additional Sources
 
-### Prerequisites
+- **Twitter**: Geolocated tweets
+- **YouTube**: Geolocated videos
 
-- Python 3.x
-- Node.js and npm
-- PostgreSQL
+Both scrapers are available in the `backend` folder.
