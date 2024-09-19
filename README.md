@@ -7,7 +7,7 @@ RSS News is an interactive web application that displays geolocated news station
 ## Features
 
 - **Interactive Map**: Visualize news stations on an interactive map.
-- **Geolocation**: Find news stations based on your current location or any specified coordinates.
+- **Geolocation**: Find news stations based on your current view of the map or the ip geolocation.
 - **RSS Feed Integration**: Access and view news directly from the map through integrated RSS feeds.
 - **Efficient Querying**: Utilizes PostGIS to provide highly efficient geospatial queries, reducing query time by up to 80%.
 ## Deployment
